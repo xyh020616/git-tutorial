@@ -1,4 +1,8 @@
 #GIt教学
 
- -feature-A
+ 
+
+-feature-A
+
+-fix-B
 
